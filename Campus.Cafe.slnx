@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="C1_ChangeGiven/C1_ChangeGiven.csproj" Id="ca61a98d-c082-4a6c-a1eb-ef0e0752777a" />
+  <Project Path="C2_CardChecker/C2_CardChecker.csproj" Id="ddc3d281-25ab-45e3-81d7-b2c48a55b81c" />
+  <Project Path="C3_BusiestHour/C3_BusiestHour.csproj" Id="a190b2b9-e7af-4538-b8d1-3a3b65ff81b2" />
+  <Project Path="Campus Cafe/CampusCafe.Api.csproj" />
+  <Project Path="CampusCafe.Tests/CampusCafe.Tests.csproj" Id="afbf333a-b522-4d3e-9f2a-2cc9d74ff053" />
+</Solution>
